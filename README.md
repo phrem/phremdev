@@ -27,7 +27,7 @@ I usually work with systems that are already live and need stability, clarity, a
 ---
 
 ## ⏰ Availability
-- Working hours: **20:30 – 21:00 (GMT+7)**
+- Working hours: **10:30 – 21:00 (GMT+7)**
 - Response time: within **24 hours**
 - Emergency support only for production issues
 
