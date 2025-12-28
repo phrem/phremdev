@@ -46,7 +46,7 @@ If you're a small team or solo founder without a dedicated backend engineer, I c
 
 ## 📬 Contact
 - Open an issue on this GitHub repository  
-- Or reach me via email: **your@email.com**
+- Or reach me via email: **watcharapun.ta@gmail.com**
 
 Please include:
 - Tech stack
